@@ -55,12 +55,12 @@ Just My Socks 目前在全球布局了洛杉矶（LA）、东京（Tokyo）、�
 
 | 方案名称 | 核心线路优势 | 带宽 | 每月流量 | 限制设备数 | 官方标价 | 选型与适用场景推荐 | 购买直达入口 |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: |
-| **JMS LA 500**<br>*(爆款明星)* | 洛杉矶 CN2 GIA / 联通 9929<br>移动 CMI 三网直连 | **2.5 Gbps** | 500 GB | 5 台 | $5.88 / 月<br>$58.88 / 年 | **【最推荐入门首选】**<br>性价比之王，三网优化极佳，畅刷 4K 视频，适合个人与小微工作室。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=YOUR_AFF_ID&pid=2) |
-| **JMS LA 1000** | 洛杉矶 CN2 GIA 高速冗余 | **5 Gbps** | 1000 GB | 无限制 | $9.88 / 月<br>$98.88 / 年 | **【高带宽多设备首选】**<br>大流量重度用户、跨境团队多人共享办公无压力。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=YOUR_AFF_ID&pid=3) |
-| **JMS Tokyo 100** | 日本东京优质软银专线<br>极低物理延迟 (40~70ms) | **100 Mbps** | 100 GB | 3 台 | $29.99 / 月<br>$299.99 / 年 | **【游戏与低延迟敏感型】**<br>华东/沿海地区极速体验，外贸实时沟通、外服游戏推荐。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=YOUR_AFF_ID&pid=4) |
-| **JMS Tokyo 500** | 日本软银优质大带宽 | **200 Mbps** | 500 GB | 5 台 | $34.99 / 月<br>$349.99 / 年 | **【日本节点重度商业户】**<br>大流量兼顾低延迟首选。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=YOUR_AFF_ID&pid=5) |
-| **JMS HK 100** | 香港优质 GIA / IPLC 极速直连<br>全国延迟 20~40ms | **100 Mbps** | 100 GB | 3 台 | $34.50 / 月<br>$345.00 / 年 | **【高端企业商务专线】**<br>媲美内地专线的极致低延迟体验，商务应急首选。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=YOUR_AFF_ID&pid=6) |
-| **JMS London 500** | 欧洲伦敦移动 CMI 优质线路 | **2.5 Gbps** | 500 GB | 5 台 | $5.88 / 月<br>$58.88 / 年 | **【欧洲业务专属】**<br>适合专门从事英国/欧洲跨境电商合规运营、欧洲业务爬虫等。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=YOUR_AFF_ID&pid=7) |
+| **JMS LA 500**<br>*(爆款明星)* | 洛杉矶 CN2 GIA / 联通 9929<br>移动 CMI 三网直连 | **2.5 Gbps** | 500 GB | 5 台 | $5.88 / 月<br>$58.88 / 年 | **【最推荐入门首选】**<br>性价比之王，三网优化极佳，畅刷 4K 视频，适合个人与小微工作室。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=24082&pid=2) |
+| **JMS LA 1000** | 洛杉矶 CN2 GIA 高速冗余 | **5 Gbps** | 1000 GB | 无限制 | $9.88 / 月<br>$98.88 / 年 | **【高带宽多设备首选】**<br>大流量重度用户、跨境团队多人共享办公无压力。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=24082&pid=3) |
+| **JMS Tokyo 100** | 日本东京优质软银专线<br>极低物理延迟 (40~70ms) | **100 Mbps** | 100 GB | 3 台 | $29.99 / 月<br>$299.99 / 年 | **【游戏与低延迟敏感型】**<br>华东/沿海地区极速体验，外贸实时沟通、外服游戏推荐。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=24082&pid=4) |
+| **JMS Tokyo 500** | 日本软银优质大带宽 | **200 Mbps** | 500 GB | 5 台 | $34.99 / 月<br>$349.99 / 年 | **【日本节点重度商业户】**<br>大流量兼顾低延迟首选。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=24082&pid=5) |
+| **JMS HK 100** | 香港优质 GIA / IPLC 极速直连<br>全国延迟 20~40ms | **100 Mbps** | 100 GB | 3 台 | $34.50 / 月<br>$345.00 / 年 | **【高端企业商务专线】**<br>媲美内地专线的极致低延迟体验，商务应急首选。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=24082&pid=6) |
+| **JMS London 500** | 欧洲伦敦移动 CMI 优质线路 | **2.5 Gbps** | 500 GB | 5 台 | $5.88 / 月<br>$58.88 / 年 | **【欧洲业务专属】**<br>适合专门从事英国/欧洲跨境电商合规运营、欧洲业务爬虫等。 | [👉 立即选购](https://justmysocks.net/members/aff.php?aff=24082&pid=7) |
 
 ---
 
@@ -165,7 +165,7 @@ Just My Socks 支持严格且透明的 **3 天内全额退款政策**：
 
 对于不愿把时间耗费在写脚本、防封锁、换 IP 的个人开发者、科研人员和跨境从业者而言，Just My Socks 凭借 **搬瓦工大厂背书 + 自动秒切 IP + 顶级 CN2 GIA 线路**，依然是目前最省心、高可用的出海基础设施之一。
 
-👉 **[点击前往 Just My Socks 官方安全镜像通道选购](https://justmysocks.net/members/aff.php?aff=YOUR_AFF_ID)**  
+👉 **[点击前往 Just My Socks 官方安全镜像通道选购](https://justmysocks.net/members/aff.php?aff=24082)**  
 *(结账记得输入永久折扣码：`JMS9272283`)*
 
 ---
