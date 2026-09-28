@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/justmysocks-guide/.github/main/assets/logo.png" width="120" height="120" alt="Just My Socks Guide Logo" />
+</p>
+
 # Just My Socks 教程（2026最新全场景指南）：官方优惠码、机房选型对比与全平台客户端订阅配置手册
 **中文完整指南** | 🌐 [English Version / Promo Codes](./README_EN.md)
 
