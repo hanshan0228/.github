@@ -217,6 +217,14 @@ curl -sSL https://raw.githubusercontent.com/justmysocks-guide/jms-speedtest/main
 
 ---
 
+### 💬 官方置顶精选技术问答（FAQ Issues）
+
+- 📌 **[Issue #1: 2026 最新专属优惠码是多少？如何在购买与续费时享受 5.2% 永久循环折扣？](https://github.com/justmysocks-guide/.github/issues/1)**
+- 📌 **[Issue #2: 觉得偶尔速度慢或不稳定？为什么必须切换到 s3 / s4 (CN2 GIA / 9929) 优化线路？](https://github.com/justmysocks-guide/.github/issues/2)**
+- 📌 **[Issue #3: 访问 ChatGPT / Claude 报错 403 Access Denied 怎么办？机房选型与分流防封配置详解](https://github.com/justmysocks-guide/.github/issues/3)**
+
+---
+
 ## 📢 总结与快速通道
 
 对于不愿把时间耗费在写脚本、防封锁、换 IP 的个人开发者、科研人员和跨境从业者而言，Just My Socks 凭借 **搬瓦工大厂背书 + 自动秒切 IP + 顶级 CN2 GIA 线路**，依然是目前最省心、高可用的出海基础设施之一。

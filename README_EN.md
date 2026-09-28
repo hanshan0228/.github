@@ -133,5 +133,13 @@ Just My Socks offers a transparent **3-day full refund policy** under standard c
 
 ---
 
+### 💬 Official Pinned FAQ Issues
+
+- 📌 **[Issue #1: What is the 2026 verified promo code & how to apply 5.2% lifetime recurring discount?](https://github.com/justmysocks-guide/.github/issues/1)**
+- 📌 **[Issue #2: Experiencing slow speeds or instability? Why you must switch to s3 / s4 (CN2 GIA / 9929)](https://github.com/justmysocks-guide/.github/issues/2)**
+- 📌 **[Issue #3: AI Access Denied (ChatGPT / Claude 403 Forbidden)? Routing rules & datacenter selection](https://github.com/justmysocks-guide/.github/issues/3)**
+
+---
+
 👉 **[Access the Official Just My Socks Portal](https://justmysocks.net/members/aff.php?aff=24082)**  
 *(Remember to apply code `JMS9272283` at checkout for 5.2% off)*
