@@ -8,6 +8,10 @@
 
 > 💡 **Overview**: Just My Socks (JMS) is the official enterprise-grade proxy & network acceleration service operated by **BandwagonHost (IT7 Networks)**. Powered by premium CN2 GIA, SoftBank, and Hong Kong IPLC routes, it features **automatic IP replacement upon blockage, 99.9% uptime SLA, and zero maintenance requirements**.
 
+> 🛠 **Ecosystem Open-Source Tools**:
+> - ⚡️ **[jms-speedtest](https://github.com/justmysocks-guide/jms-speedtest)**: Multi-datacenter latency benchmark & ChatGPT/Claude AI unlock diagnostic script
+> - 🎯 **[clash-rules](https://github.com/justmysocks-guide/clash-rules)**: Ready-to-use routing rulesets for Clash Verge Rev & Sing-box optimized for JMS
+
 ---
 
 ## 📌 Quick Navigation

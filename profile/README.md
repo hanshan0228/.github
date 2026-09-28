@@ -8,6 +8,10 @@
 
 > 💡 **核心定位**：搬瓦工官方（BandwagonHost / IT7 Networks）旗下运营的高端企业级网络加速与代理托管服务。三网直连 CN2 GIA / 软银 / 香港 IPLC 高速优化线路，**智能监控 IP 状态，被墙自动秒级切换可用 IP，彻底告别自建 VPS 频繁封锁烦恼**。
 
+> 🛠 **开源配套工具生态**：
+> - ⚡️ **[jms-speedtest](https://github.com/justmysocks-guide/jms-speedtest)**：JMS 全球机房延迟实测、三网丢包率体检与 ChatGPT / Claude / Gemini 原生 IP 解锁一键脚本
+> - 🎯 **[clash-rules](https://github.com/justmysocks-guide/clash-rules)**：专为 Just My Socks 与海外 AI 优化的高性能 Clash Verge Rev / Sing-box 分流规则包
+
 ---
 
 ## 📌 快速导航与文章目录
