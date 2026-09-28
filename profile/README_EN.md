@@ -92,12 +92,16 @@ Just My Socks operates clusters in Los Angeles (LA), Tokyo, Hong Kong, and Londo
 1. Install **Clash Meta for Android** or **Sing-box**.
 2. Add a new remote profile with your JMS subscription URL, save, and initiate connection.
 
+### Routers & Gateways: OpenWrt / OpenClash
+For OpenWrt home lab and gateway routers, paste your JMS **Clash Profile URL** directly into OpenClash `Config Subscribe`. Enable Rule mode to distribute seamless global acceleration to all local devices.
+
 ---
 
 ## 6. AI Unlocking & Routing Rules (ChatGPT / Claude / Streaming)
 
 - **ChatGPT (OpenAI)**: Use Los Angeles (`s3`/`s4`) or Tokyo routes. Both cleanly unlock ChatGPT web and API without triggering fraud detection flags.
 - **Claude (Anthropic)**: Anthropic imposes strict IP reputation checks. The **JMS London** and **LA clean datacenter IPs** provide rock-solid uptime for Claude.ai and Claude Code CLI.
+- Pair with our open-source routing ruleset: **[clash-rules](https://github.com/justmysocks-guide/clash-rules)**.
 
 ---
 
@@ -105,6 +109,20 @@ Just My Socks operates clusters in Los Angeles (LA), Tokyo, Hong Kong, and Londo
 
 ### Q: What happens if an IP is blocked?
 **A: Zero manual intervention needed.** Just My Socks automated detection monitors all nodes continuously. When any node's IP is blocked, the backend automatically provisions and updates a new IP within minutes. Clients with subscription URLs will pick up the new IP on their next scheduled update or manual refresh.
+
+### Q: Why do some users experience instability or slow speeds?
+**A: You must switch to the optimized CN2 GIA route (`s3` or `s4`).**  
+Each Just My Socks plan includes 5 diverse route configurations. Lines `s1` and `s2` are regular direct transit routes susceptible to evening international backbone congestion. Lines `s3` and `s4` are **premium China Telecom CN2 GIA and China Unicom 9929 dedicated express links**. Simply select `s3` or `s4` in your client for 0% packet loss and instant 4K playback.
+
+### Q: Does the promo code `JMS9272283` apply to renewals?
+**A: Yes, it is 100% lifetime recurring.** Once validated during your initial purchase, all subsequent automated renewal invoices will automatically receive the 5.2% discount forever.
+
+### Q: How can I benchmark my connection latency and AI unlock status?
+**A: Run our open-source one-line diagnostic tool:**
+```bash
+curl -sSL https://raw.githubusercontent.com/justmysocks-guide/jms-speedtest/main/check.sh | bash
+```
+Maintained at **[jms-speedtest](https://github.com/justmysocks-guide/jms-speedtest)**.
 
 ### Q: What is the 3-day money-back guarantee?
 Just My Socks offers a transparent **3-day full refund policy** under standard conditions:
