@@ -1,4 +1,6 @@
 # Just My Socks 教程（2026最新全场景指南）：官方优惠码、机房选型对比与全平台客户端订阅配置手册
+**中文完整指南** | 🌐 [English Version / Promo Codes](./README_EN.md)
+
 
 > 💡 **核心定位**：搬瓦工官方（BandwagonHost / IT7 Networks）旗下运营的高端企业级网络加速与代理托管服务。三网直连 CN2 GIA / 软银 / 香港 IPLC 高速优化线路，**智能监控 IP 状态，被墙自动秒级切换可用 IP，彻底告别自建 VPS 频繁封锁烦恼**。
 
